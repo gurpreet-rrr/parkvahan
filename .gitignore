@@ -1,15 +1,40 @@
+# ─── Android Studio defaults ─────────────────────────────────────────
 *.iml
 .gradle
 /local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
+local.properties
+
+# ─── IDE configuration (user-specific) ───────────────────────────────
+/.idea/
+.idea/
+
+# ─── Kotlin / Build artifacts ────────────────────────────────────────
+.kotlin/
 /build
 /captures
 .externalNativeBuild
 .cxx
-local.properties
+
+# ─── App-level build folders (root /build does NOT catch these) ──────
+/app/build/
+**/build/
+
+# ─── Built artifacts (never push these) ──────────────────────────────
+*.apk
+*.aab
+*.dex
+*.class
+
+# ─── Signing keys (NEVER push — security risk) ───────────────────────
+*.jks
+*.keystore
+keystore.properties
+
+# ─── Logs ────────────────────────────────────────────────────────────
+*.log
+
+# ─── OS / misc ───────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
