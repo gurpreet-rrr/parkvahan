@@ -105,9 +105,22 @@ app/src/main/java/com/example/parkvahan/
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots<img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/1b523274-7b39-4f20-8a1c-30b14e7a3701" />
+<img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/16ff390b-1f5e-4c83-937d-b94e424b3607" />
+<img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/6666c6a5-3fa3-4a47-a139-54966111ac2a" />
+<img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/292c2258-b8cd-4740-9e0e-78e7bceff6c5" />
+<img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/83602e8c-a935-4bff-8a83-f88e972522de" />
 
-> _(Add screenshots here — see `screenshots/` folder once you take some)_
+<img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/5e6ac13d-eb81-4eee-b0f9-1cefd6d75e1c" />
+<img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/a05b5497-51d2-43f4-8aee-b913ccaf52ef" />
+
+
+
+
+
+
+
+
 
 | Onboarding | Login | User Home |
 |---|---|---|
